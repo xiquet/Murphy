@@ -1,6 +1,6 @@
 body {
     background-color:hsl(0, 0%, 80%);
-    font-family: sans-serif;
+
   }
   
   h1 {
@@ -14,7 +14,7 @@ body {
     font-size: 1.5rem;
   }
   
-  p#m1 {
+  p#ley1 {
     position: absolute;
     top: 8%;
     left: 10%;
@@ -25,7 +25,7 @@ body {
     text-align: center;
   }
   
-  p#m2 {
+  p#ley2 {
     position: absolute;
     top: 40%;
     left: 32%;
@@ -37,7 +37,7 @@ body {
     text-align: center;
   }
   
-  p#m3 {
+  p#ley3 {
     position: absolute;
     top: 25%;
     left: 5%;
@@ -48,7 +48,7 @@ body {
     text-align: left;
   }
   
-  p#m4 {
+  p#ley4 {
     position: absolute;
     top: 25%;
     right: 5%;
@@ -59,7 +59,7 @@ body {
     text-align: right;
   }
   
-  p#m5 {
+  p#ley5 {
     position: absolute;
     bottom: 5%;
     left: 5%;
@@ -70,7 +70,7 @@ body {
     text-align: left;
   }
   
-  p#m6 {
+  p#laverdad {
     position: absolute;
     bottom: 5%;
     right: 5%;
